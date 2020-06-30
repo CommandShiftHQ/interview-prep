@@ -10,6 +10,8 @@ If you have interesting questions that should make this list feel free to open a
 
 Don't forget interview is a chance for you to get to know the company as well! So you're interviewing them at the same time. You can find [a list of questions to ask here.](https://github.com/viraptor/reverse-interview) and [some more here.](https://theworst.dev/interview-questions-for-interviewees/)
 
+![questions](https://github.com/MCRcodes/interview-prep/raw/master/Screen%20Shot%202020-06-30%20at%2010.43.24.png)
+
 
 Ersel's 6 Questions:
 
