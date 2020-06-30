@@ -8,7 +8,8 @@ To update to the most recent use `git pull`.
 
 If you have interesting questions that should make this list feel free to open a pull request.
 
-Don't forget interview is a chance for you to get to know the company as well! So you're interviewing them at the same time. You can find [a list of questions to ask here.](https://github.com/viraptor/reverse-interview).
+Don't forget interview is a chance for you to get to know the company as well! So you're interviewing them at the same time. You can find [a list of questions to ask here.](https://github.com/viraptor/reverse-interview) and [some more here.](https://theworst.dev/interview-questions-for-interviewees/)
+
 
 Ersel's 6 Questions:
 
@@ -23,3 +24,4 @@ Ersel's 6 Questions:
 5 - Is this company well respected in their field? Do their customers like them? (Check their Google reviews/Trustpilot etc...) 
 
 6 - Do people like working at this company? (check Glassdoor reviews)
+
